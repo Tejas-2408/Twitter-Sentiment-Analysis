@@ -7,3 +7,4 @@ tweepy
 textblob
 scikit-learn
 nltk
+mysql-connector-python
